@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiwani
 
-<!--
-**Shiwani-Thakur-Work/Shiwani-Thakur-Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub! 🌱
 
-Here are some ideas to get you started:
+I created this space to **learn by building, experiment with ideas, and explore what I can create with AI.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ll be working on different projects — some polished, some experimental, and probably some that will break along the way 😄. The goal is simply to keep learning and getting better.
+
+### 🚀 What you'll find here
+
+* 🧩 Projects & experiments
+* 🤖 AI-assisted builds
+* 🛠️ Tools and technologies I'm exploring
+* 📚 Things I'm learning along the way
+* 💡 Ideas turned into working products
+
+This is a **work in progress** — I'll keep adding to it as I learn, build, and experiment.
+
+> **Build. Learn. Break. Fix. Repeat. 🚀**
+
+More projects and experiments will be added as I go.
+
+[LinkedIn](https://linkedin.com/in/shiwani-thakur)
+
+Thanks for stopping by! ✨
